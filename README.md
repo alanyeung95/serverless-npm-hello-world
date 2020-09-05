@@ -45,20 +45,20 @@ Serverless: Stack update finished...
 Service Information
 service: serverless-npm-hello-world
 stage: dev
-region: us-east-1
+region: us-east-2
 stack: serverless-npm-hello-world-dev
 resources: 11
 api keys:
   None
 endpoints:
-  GET - https://e0okwuo8z2.execute-api.us-east-1.amazonaws.com/dev/hello
+  GET - https://8sp1exqxzl.execute-api.us-east-2.amazonaws.com/dev/hello
 functions:
   hello: serverless-npm-hello-world-dev-hello
 layers:
   None
 
 *************************************************************************************************************************
-Serverless: Announcing Metrics, CI/CD, Secrets and more built into Serverless Framework. Run "serverless login" to activate for free..
+Serverless: Announcing an enhanced experience for running Express.js apps: https://github.com/serverless-components/express.
 *************************************************************************************************************************
 
 ```
