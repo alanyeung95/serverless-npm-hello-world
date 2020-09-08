@@ -24,6 +24,14 @@ run in the local
 serverless offline
 ```
 
+test the lambda function
+
+```
+curl localhost:3000/dev/hello
+curl localhost:3000/dev/sqs-send
+curl localhost:3000/dev/sqs-receive
+```
+
 deploying lambda function
 
 ```
